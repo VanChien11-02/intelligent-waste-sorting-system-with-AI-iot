@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\do_an_iot\\Picture_and_AI\\send_picture_to_cloud_iot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39AC3FCF-D66C-483F-9D4D-D685C63EAFB4}|send_picture_to_cloud_iot\\send_picture_to_cloud_iot.csproj|c:\\do_an_iot\\picture_and_ai\\send_picture_to_cloud_iot\\send_picture_to_cloud_iot\\form_backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AC3FCF-D66C-483F-9D4D-D685C63EAFB4}|send_picture_to_cloud_iot\\send_picture_to_cloud_iot.csproj|solutionrelative:send_picture_to_cloud_iot\\form_backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AC3FCF-D66C-483F-9D4D-D685C63EAFB4}|send_picture_to_cloud_iot\\send_picture_to_cloud_iot.csproj|C:\\do_an_iot\\Picture_and_AI\\send_picture_to_cloud_iot\\send_picture_to_cloud_iot\\form_backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39AC3FCF-D66C-483F-9D4D-D685C63EAFB4}|send_picture_to_cloud_iot\\send_picture_to_cloud_iot.csproj|solutionrelative:send_picture_to_cloud_iot\\form_backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "form_backend.cs",
+              "DocumentMoniker": "C:\\do_an_iot\\Picture_and_AI\\send_picture_to_cloud_iot\\send_picture_to_cloud_iot\\form_backend.cs",
+              "RelativeDocumentMoniker": "send_picture_to_cloud_iot\\form_backend.cs",
+              "ToolTip": "C:\\do_an_iot\\Picture_and_AI\\send_picture_to_cloud_iot\\send_picture_to_cloud_iot\\form_backend.cs",
+              "RelativeToolTip": "send_picture_to_cloud_iot\\form_backend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:49:35.937Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "form_backend.cs [Design]",
+              "DocumentMoniker": "C:\\do_an_iot\\Picture_and_AI\\send_picture_to_cloud_iot\\send_picture_to_cloud_iot\\form_backend.cs",
+              "RelativeDocumentMoniker": "send_picture_to_cloud_iot\\form_backend.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\send_picture_to_cloud_iot\\send_picture_to_cloud_iot\\form_backend.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\hp\\source\\repos\\send_picture_to_cloud_iot\\send_picture_to_cloud_iot\\form_backend.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T02:31:39.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
